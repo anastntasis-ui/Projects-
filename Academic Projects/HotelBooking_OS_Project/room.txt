@@ -1,0 +1,36 @@
+Room: 1,Available Beds: 1,Fall to Winter price: 19.99-Spring to Summer Price: 39.99
+Room Description: Single-bed room with free Wi-Fi, including a TV with channels and a bathroom
+
+
+Room: 2,Available Beds: 1,Fall to Winter price: 19.99-Spring to Summer Price: 39.99
+Room Description: Single-bed room with free Wi-Fi, including a TV with channels and a bathroom
+
+
+Room: 3,Available Beds: 1,Fall to Winter price: 19.99-Spring to Summer Price: 39.99
+Room Description: Single-bed room with free Wi-Fi, including a TV with channels and a bathroom
+
+
+Room: 4,Available Beds: 1,Fall to Winter price: 49.99-Spring to Summer Price: 79.99
+Room Description: Double-bed room with free Wi-Fi, including a TV with channels and a bathroom.
+
+
+Room: 5,Available Beds: 1,Fall to Winter price: 49.99-Spring to Summer Price: 79.99
+Room Description: Double-bed room with free Wi-Fi, including a TV with channels and a bathroom.
+
+
+Room: 6,Available Beds: 1,Fall to Winter price: 49.99-Spring to Summer Price: 79.99
+Room Description: Double-bed room with free Wi-Fi, including a TV with channels and a bathroom.
+
+
+Room: 7,Available Beds: 2,Fall to Winter price: 49.99-Spring to Summer Price: 79.99
+Room Description: Two-bed room with free Wi-Fi, including a TV with channels and a bathroom.
+
+
+Room: 8,Available Beds: 2,Fall to Winter price: 49.99-Spring to Summer Price: 79.99
+Room Description: Two-bed room with free Wi-Fi, including a TV with channels and a bathroom.
+
+
+Room: 9,Available Beds: 2,Fall to Winter price: 49.99-Spring to Summer Price: 79.99
+Room Description: Two-bed room with free Wi-Fi, including a TV with channels and a bathroom.
+
+

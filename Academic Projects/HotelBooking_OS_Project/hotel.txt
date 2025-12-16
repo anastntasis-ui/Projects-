@@ -1,0 +1,5 @@
+Hotel Name: Fancy and Nice Hotel
+ Location: Batman, Turkey
+ Description: This prestigious(5-stars☪✪✭☆★) Hotel is globally known by its breathtaking view of the artificial lake in every room.
+ Rooms: 9 
+

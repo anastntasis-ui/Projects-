@@ -1,0 +1,80 @@
+Player Name: Ang
+Player Deck Size: 0
+
+Player Name: Peter
+Player Deck Size: 0
+
+
+Main Deck(42 Cards):
+Card 1: 11 H
+Card 2: 9 C
+Card 3: 10 D
+Card 4: 14 C
+Card 5: 10 H
+Card 6: 4 D
+Card 7: 5 H
+Card 8: 10 C
+Card 9: 14 H
+Card 10: 13 D
+Card 11: 7 H
+Card 12: 2 D
+Card 13: 9 S
+Card 14: 13 H
+Card 15: 5 S
+Card 16: 11 S
+Card 17: 6 H
+Card 18: 4 H
+Card 19: 3 D
+Card 20: 12 S
+Card 21: 8 D
+Card 22: 9 D
+Card 23: 5 C
+Card 24: 3 S
+Card 25: 11 C
+Card 26: 8 H
+Card 27: 13 C
+Card 28: 12 D
+Card 29: 3 H
+Card 30: 14 D
+Card 31: 2 H
+Card 32: 7 S
+Card 33: 9 H
+Card 34: 2 C
+Card 35: 11 D
+Card 36: 4 C
+Card 37: 12 H
+Card 38: 3 C
+Card 39: 14 S
+Card 40: 8 S
+Card 41: 7 D
+Card 42: 2 S
+
+Player Deck Ang:
+
+Player Deck Peter:
+
+-----------------------------------------------------
+
+Computer Name: CPU
+Computer Deck Size:10
+Computer Deck
+Card 1: 13 S
+Card 2: 6 C
+Card 3: 10 S
+Card 4: 6 D
+Card 5: 7 C
+Card 6: 4 S
+Card 7: 6 S
+Card 8: 8 C
+Card 9: 5 D
+Card 10: 12 C
+
+-----------------------------------------------------
+
+Player Score:0
+
+Number of rounds: 8
+
+Player Score:-3
+
+Number of rounds: 0

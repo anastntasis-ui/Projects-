@@ -1,2 +1,2 @@
 # Projects-
-Academic Projects!
+Random Projects!
